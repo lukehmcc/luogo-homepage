@@ -1,21 +1,15 @@
-name: Mobile App Name
-description: A super tagline for the mobile app
-full_description: 'A more complete description of the mobile app<br>
+name: Luogo
+description: Simple & Secure location sharing.
+full_description: 'Luogo allows you to easily share your location with all of your friends and family regardless of mobile platform.<br>
 <br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
+<br>- Fully trustless. No longer let large corportations farm your data. 
+<br>- Focused. The app does one thing, shares location. No insurance tie in's, ads, or bloat.
+<br>- Simple. Just scan two QR codes and you're paired and on your way.
 android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
+iOS: https://github.com/lukehmcc/luogo
+web: https://github.com/lukehmcc/luogo
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
-producthunt: https://telegra.ph/Replace-this-link-07-23
-companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: producthunt.png

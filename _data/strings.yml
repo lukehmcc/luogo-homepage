@@ -1,16 +1,12 @@
 app:
   screenshots: Screenshots
   description: Description
-  featured: Featured in
 
 footer:
-  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
+  copyright: Made with ❤️ by <a href="https://github.com/lukehmcc" target="_blank">Luke McCarthy</a>
   links:
     - title: Github
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
-      target: _blank
-    - title: Donate
-      url: https://paypal.me/kanbanote
+      url: https://github.com/lukehmcc/luogo
       target: _blank
     - title: Privacy
-      url: /privacy
+      url: https://github.com/lukehmcc/luogo/blob/main/PRIVACY.md
