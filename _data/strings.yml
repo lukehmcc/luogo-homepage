@@ -1,6 +1,7 @@
 app:
   screenshots: Screenshots
   description: Description
+  support: Support
 
 footer:
   copyright: Made with ❤️ by <a href="https://github.com/lukehmcc" target="_blank">Luke McCarthy</a>

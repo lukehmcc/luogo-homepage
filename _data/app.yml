@@ -1,18 +1,3 @@
-# name: Luogo
-# description: Simple & Secure location sharing.
-# full_description: 'Luogo allows you to easily share your location with all of your friends and family regardless of mobile platform.<br>
-# <br>With a lot of features:
-# <br>- Fully trustless. No longer let large corportations farm your data. 
-# <br>- Focused. The app does one thing, shares location. No insurance tie in's, ads, or bloat.
-# <br>- Simple. Just scan two QR codes and you're paired and on your way.
-# android: https://telegra.ph/Replace-this-link-07-23
-# iOS: https://github.com/lukehmcc/luogo
-# web: https://github.com/lukehmcc/luogo
-# screenshots:
-#   - 1.png
-#   - 2.png
-#   - 3.png
-#   - 4.png
 name: Luogo
 description: Simple & Secure Location Sharing.
 full_description: 'Luogo allows you to easily share your location with all of your friends and family regardless of mobile platform.<br>
@@ -21,9 +6,10 @@ full_description: 'Luogo allows you to easily share your location with all of yo
 <br>- Focused. The app does one thing, shares location. No ads, insurance tie ins, or BS.
 <br>- Simple. Just scan two QR codes and you are paired and on your way.'
 iOS: https://github.com/lukehmcc/luogo
-android: https://github.com/lukehmcc/luogo
+android: https://play.google.com/store/apps/details?id=app.luogo.ap
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
+support: If youre in need of support feel free to reach out to me via email through <a href="https://docs.google.com/forms/d/e/1FAIpQLScToKScrfN1B_IKcsls_VYuaA6xDKwIN5PSY79hzKqqzI-ORw/viewform?usp=header" target="_blank">this forum</a>. I'd love to help!
