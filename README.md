@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="/docs/animation/animation.gif" width="150">
-</p>
 <h1 align="center">Luogo Landing Page</h1>
 <p>
   <a href="/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="MIT"></a>
 </p>
+
+The landing page for the Luogo app.
 
 ## 📖 How to use
 
