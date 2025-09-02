@@ -9,6 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "4.2.1"
+gem "sassc", "< 2.2.0"
 gem "csv"
 gem "base64"
 gem 'bigdecimal'
